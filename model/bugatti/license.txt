@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bugatti Chiron Sport
+* source:	https://sketchfab.com/3d-models/bugatti-chiron-sport-a3f892063a8d40b0bfb54f4e7726cd50
+* author:	DJS (https://sketchfab.com/s.jailen.jones)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bugatti Chiron Sport" (https://sketchfab.com/3d-models/bugatti-chiron-sport-a3f892063a8d40b0bfb54f4e7726cd50) by DJS (https://sketchfab.com/s.jailen.jones) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
